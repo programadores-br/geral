@@ -52,4 +52,4 @@ Neste periodo ficam proibidos somente
 
 ***Início do legado: 25/11/2016***
 
-  >- Seja ativo, compartilhe conhecimento! :white_check_mark:
+  >Seja ativo, compartilhe conhecimento! :white_check_mark:
