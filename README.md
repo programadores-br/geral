@@ -23,7 +23,7 @@ Além das regras específicas do site, temos as regras para grupos, redes sociai
 
 ### Colaboradores e parceiros
 
-Todos os colaboradores e parceiros da PGBR, não importa seu nível hierárquico, está obrigado a seguir o nosso Código de Ética. Caso não o faça, está sujeito às penalidades lá previstas.
+Todos os colaboradores e parceiros da PGBR, não importa seu nível hierárquico, são obrigados a seguir o nosso Código de Ética. Caso não o façam, estão sujeitos às penalidades lá previstas.
 
   - [Código de Ética](https://github.com/programadores-br/geral/blob/master/codigo-de-etica.md)
 
