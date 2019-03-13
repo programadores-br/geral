@@ -43,6 +43,8 @@ Neste periodo ficam proibidos somente
 
 **CASO O DESCUMPRIMENTO DE REGRA OCORRA DENTRO DO HORARIO LIVRE A PUNIÇÃO É O BAN PERMANENTE DO GRUPO **
 
+**AS REGRAS DE HORÁRIO LIVRE NÃO SE APLICAM AOS GRUPOS COM TEMA ESPECÍFICO **
+
 **EM CASO DE DESCUMPRIMENTO DAS OUTRAS REGRAS FORA DO HORÁRIO LIVRE, SERÁ SEGUIDA A SEGUINTE RÉGUA DE PUNIÇÃO:**  
 - **Na primeira ocorrência, será solicitado que seja removido o conteúdo em até 1 hora. Se a ordem for cumprida, ficará apenas a advertência pública e reforço da aplicação das nossas regras. Caso não seja cumprido, haverá o banimento permanente.**  
 - **Na segunda ocorrência, o conteúdo deverá ser removido em 15 minutos. Se a ordem não for cumprida, o infrator será penalizado com a segunda advertência pública e haverá o reforço da aplicação das nossas regras. Caso contrário, ban permanente.**  
