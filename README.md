@@ -32,16 +32,17 @@ Todos os colaboradores e parceiros da PGBR, não importa seu nível hierárquico
 Nossos links oficiais para grupos e redes estão abaixo referenciados:
 
   - [Site](https://programadoresbr.com.br)
-  - [WhatsApp - *Em migração para Telegram*](https://chat.whatsapp.com/LCwZWshgrrG1YlLsFqq5xK)
-  - PGBR - PHP: https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC   
-  - [PGBR - JAVA: https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1
-  - PGBR - FRONTEND: https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K
-  - PGBR - MARKETING DIGITAL: https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5
-  - PGBR - PYTHON E IA: https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3
-  - PGBR - MOBILE: https://chat.whatsapp.com/BRd1dy2ySnQ53I5NSHSqfk
-  - [Grupo Telegram](https://t.me/joinchat/BhkPBRZjYk4R3wVknDLfCg)
-  - [Canal Telegram](https://t.me/canalpgbr)
-  - [Página Facebook](https://www.facebook.com/programad0resbr)
-  - [Grupo Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
+  - Grupos no WhatsApp
+    - [ProgramadoresBR](https://chat.whatsapp.com/LCwZWshgrrG1YlLsFqq5xK)
+    - [PGBR - PHP](https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC)
+    - [PGBR - JAVA](https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1)
+    - [PGBR - FRONTEND](https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K)
+    - [PGBR - MARKETING DIGITAL](https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5)
+    - [PGBR - PYTHON E IA](https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3)
+    - [PGBR - MOBILE](https://chat.whatsapp.com/BRd1dy2ySnQ53I5NSHSqfk)
+  - [Grupo no Telegram](https://t.me/joinchat/BhkPBRZjYk4R3wVknDLfCg)
+  - [Canal de empregos no Telegram](https://t.me/canalpgbr)
+  - [Página no Facebook](https://www.facebook.com/programad0resbr)
+  - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
   - [Canal YouTube](http://youtube.com/c/ProgramadoresBR)
   - [Slack](https://join.slack.com/t/programadoresbrgroup/shared_invite/enQtNTQyNjcxODkxNTIxLWMxYWVhMzllZjg5NGVjMTllODI5ZWUxOWMzNDA1NDA3OWM2OWUzNmM5MDIzNzY2MjFiNTI2MWZlZTc3NTc1OGE)
