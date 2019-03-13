@@ -33,12 +33,11 @@ Nossos links oficiais para grupos e redes estão abaixo referenciados:
 
   - [Site](https://programadoresbr.com.br)
   - [WhatsApp - *Em migração para Telegram*](https://chat.whatsapp.com/LCwZWshgrrG1YlLsFqq5xK)
-  - (https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC5)
-  - [PGBR - JAVA](https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1)
-  - [PGBR - FRONTEND](https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K)
-  - [PGBR - MARKETING DIGITAL](https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5)
-  - [PGBR - PYTHON E IA](https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3)
-  - [PGBR - MOBILE](https://chat.whatsapp.com/BRd1dy2ySnQ53I5NSHSqfk)
+  - PGBR - PHP: https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC:   - [PGBR - JAVA: https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1
+  - PGBR - FRONTEND: https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K
+  - PGBR - MARKETING DIGITAL: https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5
+  - PGBR - PYTHON E IA: https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3
+  - PGBR - MOBILE: https://chat.whatsapp.com/BRd1dy2ySnQ53I5NSHSqfk
   - [Grupo Telegram](https://t.me/joinchat/BhkPBRZjYk4R3wVknDLfCg)
   - [Canal Telegram](https://t.me/canalpgbr)
   - [Página Facebook](https://www.facebook.com/programad0resbr)
