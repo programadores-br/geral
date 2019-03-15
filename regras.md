@@ -13,6 +13,7 @@ os integrantes parceiros de negócios da Programadores BR Plataforma para desenv
 - Proibido Divulgação sem permissão [RDIV]
 - Proibido Falar sobre política. [RPOL]
 - Proibido Outros assuntos em horário padrão [HLD]
+- **A postagem de vagas de emprego é liberada em todos os grupos e independe da permissão dos administradores**
 
 ### **Foco**
  
