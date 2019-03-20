@@ -33,7 +33,8 @@ Nossos links oficiais para grupos e redes estão abaixo referenciados:
 
   - [Site](https://programadoresbr.com.br)
   - [WhatsApp - *Em migração para Telegram*](https://chat.whatsapp.com/LCwZWshgrrG1YlLsFqq5xK)
-  - PGBR - PHP: https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC:   - [PGBR - JAVA: https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1
+  - PGBR - PHP: https://chat.whatsapp.com/Hzbt7yB1TJVJw91N5NNqC   
+  - [PGBR - JAVA: https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1
   - PGBR - FRONTEND: https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K
   - PGBR - MARKETING DIGITAL: https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5
   - PGBR - PYTHON E IA: https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3
