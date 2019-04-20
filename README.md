@@ -40,7 +40,7 @@ Nossos links oficiais para grupos e redes estão abaixo referenciados:
     - [PGBR - MARKETING DIGITAL](https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5)
     - [PGBR - PYTHON E IA](https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3)
     - [PGBR - MOBILE](https://chat.whatsapp.com/BRd1dy2ySnQ53I5NSHSqfk)
-  - [Grupo no Telegram](https://t.me/joinchat/BhkPBRZjYk4R3wVknDLfCg)
+  - [Grupo no Telegram](https://t.me/joinchat/BhkPBUYURTVdgf4yGg-SnQ)
   - [Canal de empregos no Telegram](https://t.me/canalpgbr)
   - [Página no Facebook](https://www.facebook.com/programad0resbr)
   - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
