@@ -13,6 +13,7 @@ os integrantes parceiros de negócios da Programadores BR Plataforma para desenv
 - Proibido Divulgação sem permissão [RDIV]
 - Proibido Falar sobre política. [RPOL]
 - Proibido Outros assuntos em horário padrão [HLD]
+- **A postagem de vagas de emprego é liberada em todos os grupos e independe da permissão dos administradores**
 
 ### **Foco**
  
@@ -41,7 +42,7 @@ Neste periodo ficam proibidos somente
 
 **AS REGRAS DE HORÁRIO LIVRE NÃO SE APLICAM AOS GRUPOS COM TEMA ESPECÍFICO **
 
-**EM CASO DE DESCUMPRIMENTO DA REGRA DE HORÁRIO LIVRE O INFRATOR SERÁ BANIDO ATÉ A MEIA NOITE DO DIA EM QUE OCORREU O DESCUMPRIMENTO. [HLD]** 
+**EM CASO DE DESCUMPRIMENTO DA REGRA DE HORÁRIO LIVRE O INFRATOR SERÁ BANIDO POR ATÉ 7 DIAS CORRIDOS (168 HORAS) À PARTIR DO MOMENTO EM QUE OCORREU O DESCUMPRIMENTO. [HLD]** 
 
 **CASO O DESCUMPRIMENTO DE REGRA OCORRA DENTRO DO HORARIO LIVRE A PUNIÇÃO É O BAN PERMANENTE DO GRUPO **
 
