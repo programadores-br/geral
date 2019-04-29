@@ -33,9 +33,11 @@ Nossos links oficiais para grupos e redes estão abaixo referenciados:
 
   - [Site](https://programadoresbr.com.br)
   - Grupos no WhatsApp
-    - [ProgramadoresBR](https://chat.whatsapp.com/LCwZWshgrrG1YlLsFqq5xK)
+    - [ProgramadoresBR](https://chat.whatsapp.com/DCebfEvSsJLLtxkW5vemmb)
     - [PGBR - PHP](https://chat.whatsapp.com/FmwHHxiXN0uK9Tmyo79vxX)
     - [PGBR - JAVA](https://chat.whatsapp.com/LH5eC7TMFD9Fo1fYtzTqs1)
+    - [PGBR - C# E .NET](https://chat.whatsapp.com/FrjHFQWdCJSIFpM3LnrvDr)
+    - [PGBR - C E C++](https://chat.whatsapp.com/DmsvMqztF0GHdKJFVM1dhu)
     - [PGBR - FRONTEND](https://chat.whatsapp.com/DjCnaCpQhP6AHn2klklE2K)
     - [PGBR - MARKETING DIGITAL](https://chat.whatsapp.com/Ds3jiBO2KrR1c7sOJ3Xzh5)
     - [PGBR - PYTHON E IA](https://chat.whatsapp.com/JBxZfDJg21DGusIkFusos3)
