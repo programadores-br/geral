@@ -42,17 +42,20 @@ Neste periodo ficam proibidos somente
 
 **AS REGRAS DE HORÁRIO LIVRE NÃO SE APLICAM AOS GRUPOS COM TEMA ESPECÍFICO **
 
-**EM CASO DE DESCUMPRIMENTO DA REGRA DE HORÁRIO LIVRE O INFRATOR SERÁ BANIDO POR ATÉ 7 DIAS CORRIDOS (168 HORAS) À PARTIR DO MOMENTO EM QUE OCORREU O DESCUMPRIMENTO. [HLD]** 
+## ASSUNTOS PARALELOS FORA DO HORÁRIO LIVRE:
+1° OCORRÊNCIA: 1 HORA PARA A MENSAGEM SER REMOVIDA.
+2° OCORRÊNCIA: 15 MINUTOS PARA A MENSAGEM SER REMOVIDA
+3° OCORRÊNCIA: BAN PERMANENTE.
 
-**CASO O DESCUMPRIMENTO DE REGRA OCORRA DENTRO DO HORARIO LIVRE A PUNIÇÃO É O BAN PERMANENTE DO GRUPO **
+EM CASO DE DESCUMPRIMENTO DA 1° E 2° OCORRÊNCIA, O BAN SERÁ DE 1 ATÉ 7 DIAS, OU PERMANENTE, QUESTÃO PERTINENTE AO ADM QUE REMOVEU. TODOS OS ENVOLVIDOS PODERÃO SER PENALIZADOS.
 
-**AS REGRAS DE HORÁRIO LIVRE NÃO SE APLICAM AOS GRUPOS COM TEMA ESPECÍFICO **
+## QUEBRA DE REGRA FORA DE HORÁRIO LIVRE
 
-**EM CASO DE DESCUMPRIMENTO DAS OUTRAS REGRAS FORA DO HORÁRIO LIVRE, SERÁ SEGUIDA A SEGUINTE RÉGUA DE PUNIÇÃO:**  
-- **Na primeira ocorrência, será solicitado que seja removido o conteúdo em até 1 hora. Se a ordem for cumprida, ficará apenas a advertência pública e reforço da aplicação das nossas regras. Caso não seja cumprido, haverá o banimento permanente.**  
-- **Na segunda ocorrência, o conteúdo deverá ser removido em 15 minutos. Se a ordem não for cumprida, o infrator será penalizado com a segunda advertência pública e haverá o reforço da aplicação das nossas regras. Caso contrário, ban permanente.**  
-- **Na terceira vez, haverá ban sem aviso prévio!**  
+MESMO TEMPO NAS OCORRÊNCIAS ANTERIORES, ENTRETANTO O BAN É PERMANENTE.
 
+## QUEBRA DE REGRA DENTRO DE HORÁRIO LIVRE
+
+BAN PERMANENTE.
  *Observação: A régua de medidas disciplinares pode ser pulada dependendo da gravidade da infração!*
 
 ***Início do legado: 25/11/2016***
