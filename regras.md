@@ -31,14 +31,22 @@ os integrantes parceiros de negócios da Programadores BR Plataforma para desenv
 Aqueles que não puderem ficar ativos durante a semana se justifiquem, seja por causa da faculdade, trabalho etc...
 
 
-## ASSUNTOS PARALELOS FORA DO HORÁRIO LIVRE:
+## ASSUNTOS PARALELOS DENTRO DOS GRUPOS:
 1° OCORRÊNCIA: 1 HORA PARA A MENSAGEM SER REMOVIDA.
 2° OCORRÊNCIA: 15 MINUTOS PARA A MENSAGEM SER REMOVIDA
 3° OCORRÊNCIA: BAN PERMANENTE.
 
 EM CASO DE DESCUMPRIMENTO DA 1° E 2° OCORRÊNCIA, O BAN SERÁ DE 1 ATÉ 7 DIAS, OU PERMANENTE, QUESTÃO PERTINENTE AO ADM QUE REMOVEU. TODOS OS ENVOLVIDOS PODERÃO SER PENALIZADOS.
 
-## QUEBRA DE REGRA FORA DE HORÁRIO LIVRE
+## GRUPO LIVRE
+Com a criação do grupo livre ficam extintas as regras referentes ao horário de tema livre nos grupos da PGBR. Neste grupo em específico a discussão de outros temas não ligados a programação/tecnologia fica liberada, ficando proibida a postagem dos seguintes itens:
+
+- Material pornográfico (vídeos/fotos/links)
+- Material proveniente de pirataria
+
+A entrada no grupo livre fica condicionada a solicitação para um dos administradores que fará o envio do link que será revogado em um prazo de cinco minutos ou após a entrada do solicitante.
+
+## QUEBRA DE REGRA DENTRO DOS GRUPOS
 
 MESMO TEMPO NAS OCORRÊNCIAS ANTERIORES, ENTRETANTO O BAN É PERMANENTE.
 
