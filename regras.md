@@ -30,17 +30,6 @@ os integrantes parceiros de negócios da Programadores BR Plataforma para desenv
 
 Aqueles que não puderem ficar ativos durante a semana se justifiquem, seja por causa da faculdade, trabalho etc...
 
-## Horários de tema livre no grupo
-- Segunda à Quinta das 22:00h até às 23:59h
-- De Sexta a partir das 22:00h até Domingo às 23:59h
-
-Neste periodo ficam proibidos somente
-- **Material pirata**
-- **Pornografia**
-- **Brigas**
-- **Racismo e demais formas de discriminação (preconceito)**
-
-**AS REGRAS DE HORÁRIO LIVRE NÃO SE APLICAM AOS GRUPOS COM TEMA ESPECÍFICO **
 
 ## ASSUNTOS PARALELOS FORA DO HORÁRIO LIVRE:
 1° OCORRÊNCIA: 1 HORA PARA A MENSAGEM SER REMOVIDA.
