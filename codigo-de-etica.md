@@ -1,12 +1,12 @@
-# Código de Ética da Programadores BR Plataforma para Desenvolvedores (PGBR) #
+# Código de Ética da Programadores BR Plataforma para Desenvolvedores (PGBR)
+
 Vigência: 05 de dezembro de 2018
 
+## CAPÍTULO I
 
-## CAPÍTULO I ##
-### DISPOSIÇÃO PRELIMINAR ###
+### DISPOSIÇÃO PRELIMINAR
 
-Art. 1º. Este Código de Ética prescreve os padrões de conduta profissional exigidos dos Colaboradores da PGBR, estabelece deveres, vedações, bem como 
-disciplina, constituição e atuação do Conselho de Ética.
+Art. 1º. Este Código de Ética prescreve os padrões de conduta profissional exigidos dos Colaboradores da PGBR, estabelece deveres, vedações, bem como disciplina, constituição e atuação do Conselho de Ética.
 
 Parágrafo único. São considerados colaboradores da PGBR:
 
@@ -18,9 +18,9 @@ Parágrafo único. São considerados colaboradores da PGBR:
 6. conveniados;
 7. quaisquer outras pessoas, físicas ou jurídicas, que representem a PGBR ou que com ela celebrem contrato de qualquer natureza.
 
+## CAPÍTULO II
 
-## CAPÍTULO II ##
-### DOS VALORES E PRÍNCIPIOS ###
+### DOS VALORES E PRÍNCIPIOS
 
 Art. 2º. A PGBR considera como valores a serem observados por seus colaboradores:
 
@@ -42,7 +42,6 @@ Art. 2º. A PGBR considera como valores a serem observados por seus colaboradore
 16. a competência;
 17. a cordialidade.
 
-
 Art. 3º. Deverão ser seguidos pelos colaboradores da PGBR os seguintes princípios gerais:
 
 1. legalidade;
@@ -54,7 +53,6 @@ Art. 3º. Deverão ser seguidos pelos colaboradores da PGBR os seguintes princí
 7. zelar pelos valores e imagem da PGBR;
 8. ter empenho e qualidade no trabalho;
 9. respeitar as normas e procedimentos vigentes.
-
 
 Art. 4º. São deveres dos colaboradores da PGBR, sem prejuízo daqueles estabelecidos na legislação brasileira vigente e nas normas adotadas pela PGBR:
 
@@ -72,32 +70,30 @@ de ações imorais, ilegais ou antiéticas;
 11. relacionar-se com o cliente de forma profissional, preservando a isenção necessária ao desempenho das suas funções;
 12. guardar sigilo sobre as operações, bem como sobre as informações da PGBR, ainda não tornadas públicas, não divulgando aos seus clientes, prestadores de serviços, colegas e fornecedores, das quais tenha conhecimento por sua atuação profissional;
 
+## CAPÍTULO III
 
-
-## CAPÍTULO III ##
-### DAS VEDAÇÕES ###
+### DAS VEDAÇÕES
 
 Art. 5º. São vedadas as seguintes condutas aos colaboradores da PGBR:
 
 1. utilizar-se do cargo ou função para intimidar colega;
-2. solicitar, sugerir ou receber vantagens pessoais ou para terceiros, de qualquer espécie, utilizando o nome da PGBR, cargo ou a função;
-3. fazer uso de informação privilegiada, obtida no exercício profissional, em benefício próprio ou de terceiros, na realização de negócios de qualquer natureza;
-4. receber, indevidamente, em razão de suas atribuições, presentes, comissão ou vantagem de qualquer espécie, inclusive convites de caráter pessoal para viagens, hospedagens e outras atrações;
-5. prejudicar, deliberadamente, a reputação de outros colaboradores, cidadãos, entidades e empresas;
-6. usar de artifícios para dificultar o exercício de direitos por qualquer pessoa física ou jurídica;
-7. permitir que empatias ou interesses de ordem pessoal interfiram no trato com os colegas ou com o público em geral;
-8. exercer quaisquer atividades profissionais conflitantes ou incompatíveis com o exercício do cargo ou função;9. compactuar com irregularidades, não tomando as providências pertinentes quando da identificação do fato;
-10. praticar assédio sexual ou moral;
-11. deixar ou permitir, com dolo ou culpa grave, de proceder ao pagamento a quem de direito;
-12. realizar ou permitir, com dolo ou culpa grave, que alguém receba pagamento ao qual não faça jus.
+*. solicitar, sugerir ou receber vantagens pessoais ou para terceiros, de qualquer espécie, utilizando o nome da PGBR, cargo ou a função;
+*. fazer uso de informação privilegiada, obtida no exercício profissional, em benefício próprio ou de terceiros, na realização de negócios de qualquer natureza;
+*. receber, indevidamente, em razão de suas atribuições, presentes, comissão ou vantagem de qualquer espécie, inclusive convites de caráter pessoal para viagens, hospedagens e outras atrações;
+*. prejudicar, deliberadamente, a reputação de outros colaboradores, cidadãos, entidades e empresas;
+*. usar de artifícios para dificultar o exercício de direitos por qualquer pessoa física ou jurídica;
+*. permitir que empatias ou interesses de ordem pessoal interfiram no trato com os colegas ou com o público em geral;
+*. exercer quaisquer atividades profissionais conflitantes ou incompatíveis com o exercício do cargo ou função;9. compactuar com irregularidades, não tomando as providências pertinentes quando da identificação do fato;
+*. praticar assédio sexual ou moral;
+*. deixar ou permitir, com dolo ou culpa grave, de proceder ao pagamento a quem de direito;
+*. realizar ou permitir, com dolo ou culpa grave, que alguém receba pagamento ao qual não faça jus.
 
     § 1º Não são considerados presentes, para os fins do item 4 deste artigo, os brindes que não tenham valor comercial, ou que sejam distribuídos por entidades de qualquer natureza a título de cortesia, propaganda, divulgação habitual ou por ocasião de eventos especiais, ou datas comemorativas, que não ultrapassem o valor unitário de R$ 300,00 (trezentos reais). Os presentes acima desse valor que, por qualquer motivo, não possam ser devolvidos, serão preferencialmente incorporados ao patrimônio da PGBR.
-    
     § 2º A vedação de que trata o item 4, aplica-se igualmente aos terceiros de relação pessoal ou de família (cônjuge, ascendente ou descendente) do colaborador.
-    
 
-## CAPÍTULO IV ##
-### DA DENÚNCIA ###
+## CAPÍTULO IV
+
+### DA DENÚNCIA
 
 Art. 6º. Em qualquer caso de denúncia de supeita ou descumprimento de qualquer regra disposta neste código de ética, a mesma poderá ser direcionada para o e-mail denuncia@programadoresbr.com.br. A apreciação da mesma será feita por uma comissão especificamente formada para este fim.
 
@@ -120,10 +116,9 @@ Art. 8º. Após a decisão final, poderá ser interposto recurso aos membros do 
 
 Art. 9º. A denúncia terá resposta e repercussão ao denunciante na medida da gravidade de sua trasgressão à este Código. Sendo algum desrespeito às Leis em vigência no Brasil, a denúncia, junto com a decisão da comissão especial e/ou membros do Board, poderá ser encaminhada às autoridades competentes, para que prossigam com os procedimentos jurídicos e legais em relação ao caso concreto.
 
+## CAPÍTULO V
 
-
-## CAPÍTULO V ##
-### DAS DISPOSIÇÕES GERAIS E FINAIS ###
+### DAS DISPOSIÇÕES GERAIS E FINAIS
 
 Art. 10. O colaborador da PGBR tem por obrigação denunciar quaisquer casos em que confirme ou suspeite de quebra da Ética deste Código.
 
