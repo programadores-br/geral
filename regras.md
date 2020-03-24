@@ -1,60 +1,73 @@
-# Programadores BR  
-Esse guia traz regras e orientações de conduta para uma convivência saudável entre todos
-os integrantes parceiros de negócios da Programadores BR Plataforma para desenvolvedores (PGBR). *Esse é um breve resumo do Código de Conduta, disponível também neste repositório.*
+# ProgramadoresBR
 
-### **Regras**
- 
-- Proibido Pirataria/cracking/meios ilegais [R157]
-- Proibido Pornografia [RXXX]
-- Proibido Brigas [RWAR]
-- Proibido Preconceito [RPREC]
-- Proibido qualquer tipo de assédio [RASS]
-- Proibido Falar sobre religião [RREL]
-- Proibido Divulgação sem permissão [RDIV]
-- Proibido Falar sobre política. [RPOL]
-- Proibido Outros assuntos em horário padrão [HLD]
-- **A postagem de vagas de emprego é liberada em todos os grupos e independe da permissão dos administradores**
+Esse guia traz regras e orientações de conduta para uma convivência saudável entre todos os integrantes e parceiros da ProgramadoresBR (PGBR).
 
-### **Foco**
- 
-- Troca de conhecimento e experiências em TI (programação, software...)
-- Compartilhar novidades das linguagens de programação.
+## Regras
 
-### **Recomendações** 
+Proibições:
+
+- Conteúdo pirata ou quaisquer coisas ilegais [R157]
+- Pornografia (incluindo figurinhas/emojis/GIFs/links) [RXXX]
+- Brigas (todos os envolvidos) [RWAR]
+- Preconceito [RPREC]
+- Qualquer tipo de assédio [RASS]
+- Religião [RREL]
+- Divulgação e anúncios de produtos sem permissão [RDIV]
+- Falar sobre política [RPOL]
+
+Permitido sem a necessida de autorização:
+
+- Vagas de empregos
+- Cursos gratuitos
+- Conteúdos que ajudem a comunidade
+
+Permitido, sob autorização de um dos admins:
+
+- Outros grupos
+- Figurinhas/Emojis/GIFs (mesmo autorizado, deve ser feito com bom senso)
+
+## Foco dos grupos
+
+- Troca de conhecimento e experiências em TI (programação, software, hardware, infraestrutura, carreira)
+- Compartilhar novidades das linguagens de programação
+
+## Recomendações
+
 - Para melhor visualização dos demais membros, descrever a dúvida/resposta, em apenas 2 blocos de texto e 1 imagem.
+- Ao mandar código, utilize a sintaxe markdown, usando \```três crases entre o código```. Isso faz com que o código seja melhor formatado.
+  - No entanto, só faça isso para o caso de o código ser muito pequeno. Para mais do que 8 linhas de código, utilize-se dos serviços [Gist](https://gist.github.com/), [PasteBin](https://pastebin.com/) ou [Snippets do GitLab](https://gitlab.com/snippets/new), e depois mande o link para o grupo.
+- Ao conversar, lembre-se de sempre marcar a mensagem original, para garantir que a pessoa interessada saiba que é uma resposta direcionada à dúvida/mensagem dela.
 
-### **Avisos** 
-- Toda semana haverá revisão dos membros, inativos sem motivo convincente serão removidos.
-- Toda semana terá um aviso como este para poder relembrar.
-- Qualquer dúvida, qualquer desentendimento com os membros pode chamar os adms (caso eles não visualizarem).
+## Assuntos não pertinentes
 
-Aqueles que não puderem ficar ativos durante a semana se justifiquem, seja por causa da faculdade, trabalho etc...
+Considera-se como assunto não pertinente nos grupos técnicos, aqueles que não sejam de cunho técnico, carreira ou educacional. Para estes, deve conversar no grupo livre (chamado de Las Vegas).
 
+Caso esta regra seja descumprida, seguiremos a seguinte régua disciplinar:
 
-## ASSUNTOS PARALELOS DENTRO DOS GRUPOS:
-1° OCORRÊNCIA: 1 HORA PARA A MENSAGEM SER REMOVIDA.
-2° OCORRÊNCIA: 15 MINUTOS PARA A MENSAGEM SER REMOVIDA
-3° OCORRÊNCIA: BAN PERMANENTE.
+- 1° ocorrência: 1 hora para a mensagem ser removida
+- 2° ocorrência: 15 minutos para a mensagem ser removida
+- 3° ocorrência: ban permanente.
 
-EM CASO DE DESCUMPRIMENTO DA 1° E 2° OCORRÊNCIA, O BAN SERÁ DE 1 ATÉ 7 DIAS, OU PERMANENTE, QUESTÃO PERTINENTE AO ADM QUE REMOVEU. TODOS OS ENVOLVIDOS PODERÃO SER PENALIZADOS.
+Em caso de descumprimento da ordem de remoção nas 1ª e 2ª ocorrência, o ban será de 1 a 7 dias. Todos os envolvidos poderão ser penalizados.
 
-## GRUPO LIVRE
-Com a criação do grupo livre ficam extintas as regras referentes ao horário de tema livre nos grupos da PGBR. Neste grupo em específico a discussão de outros temas não ligados a programação/tecnologia fica liberada, ficando proibida a postagem dos seguintes itens:
+Para os casos de quebra de regras, seguiremos o mesmo tempo acima. No entanto, o ban aplicado será permanente.
 
-- Material pornográfico (vídeos/fotos/links)
-- Material proveniente de pirataria
+Essa régua disciplinar não se aplica aos assuntos proibidos, os quais recebem ban.
 
-A entrada no grupo livre fica condicionada a solicitação para um dos administradores que fará o envio do link que será revogado em um prazo de cinco minutos ou após a entrada do solicitante.
+## Grupo livre
 
-## QUEBRA DE REGRA DENTRO DOS GRUPOS
+Neste grupo em específico, a discussão de outros temas não ligados a programação/tecnologia fica liberada, ficando proibida a postagem dos seguintes conteúdos:
 
-MESMO TEMPO NAS OCORRÊNCIAS ANTERIORES, ENTRETANTO O BAN É PERMANENTE.
+- Conteúdo pirata ou quaisquer coisas ilegais [R157]
+- Pornografia (incluindo figurinhas/emojis/GIFs/links) [RXXX]
+- Ofensas à família. [RFAM]
 
-## QUEBRA DE REGRA DENTRO DE HORÁRIO LIVRE
+Ao entrar no grupo livre, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo NÃO é para você.
 
-BAN PERMANENTE.
- *Observação: A régua de medidas disciplinares pode ser pulada dependendo da gravidade da infração!*
+## Dúvidas
+
+Nos casos de dúvidas em relação a estas regras, você pode e DEVE chamar um dos admins. Na dúvida, evite o ban e NÃO FAÇA NADA ANTES DE FALAR COM UM DOS ADMINS.
 
 ***Início do legado: 25/11/2016***
 
-  >Seja ativo, compartilhe conhecimento! :white_check_mark:
+  > Seja ativo, compartilhe conhecimento! :white_check_mark:
