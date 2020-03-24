@@ -40,7 +40,7 @@ Permitido, sob autorização de um dos admins:
 
 ## Assuntos não pertinentes
 
-Considera-se como assunto não pertinente nos grupos técnicos, aqueles que não sejam de cunho técnico, carreira ou educacional. Para estes, deve conversar no grupo livre (chamado de Las Vegas).
+Considera-se como assunto não pertinente nos grupos técnicos, aqueles que não sejam de cunho técnico, carreira ou educacional. Para estes, deve conversar no grupo Las Vegas.
 
 Caso esta regra seja descumprida, seguiremos a seguinte régua disciplinar:
 
@@ -54,19 +54,19 @@ Para os casos de quebra de regras, seguiremos o mesmo tempo acima. No entanto, o
 
 Essa régua disciplinar não se aplica aos assuntos proibidos, os quais recebem ban.
 
-## Grupo livre (Las Vegas)
+## Grupo Las Vegas
 
 Neste grupo em específico, a discussão de outros temas não ligados a programação/tecnologia fica liberada, ficando proibida a postagem dos seguintes conteúdos:
 
 - Conteúdo pirata ou quaisquer coisas ilegais [R157]
 - Pornografia (incluindo figurinhas/emojis/GIFs/links) [RXXX]
-- Ofensas à família [RFAM]
+- Ofensas à família. [RFAM]
 
-Ao entrar no grupo livre, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo NÃO é para você.
+Ao entrar no grupo Las Vegas, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo *NÃO é para você*.
 
 ## Dúvidas
 
-Nos casos de dúvidas em relação a estas regras, você pode e DEVE chamar um dos admins. Na dúvida, evite o ban e NÃO FAÇA NADA ANTES DE FALAR COM UM DOS ADMINS.
+Nos casos de dúvidas em relação a estas regras, você pode e *DEVE* chamar um dos admins. Na dúvida, evite o ban e *NÃO FAÇA NADA ANTES DE FALAR COM UM DOS ADMINS*.
 
 ***Início do legado: 25/11/2016***
 
