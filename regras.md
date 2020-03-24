@@ -54,13 +54,13 @@ Para os casos de quebra de regras, seguiremos o mesmo tempo acima. No entanto, o
 
 Essa régua disciplinar não se aplica aos assuntos proibidos, os quais recebem ban.
 
-## Grupo livre
+## Grupo livre (Las Vegas)
 
 Neste grupo em específico, a discussão de outros temas não ligados a programação/tecnologia fica liberada, ficando proibida a postagem dos seguintes conteúdos:
 
 - Conteúdo pirata ou quaisquer coisas ilegais [R157]
 - Pornografia (incluindo figurinhas/emojis/GIFs/links) [RXXX]
-- Ofensas à família. [RFAM]
+- Ofensas à família [RFAM]
 
 Ao entrar no grupo livre, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo NÃO é para você.
 
