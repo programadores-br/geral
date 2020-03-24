@@ -77,18 +77,19 @@ de ações imorais, ilegais ou antiéticas;
 Art. 5º. São vedadas as seguintes condutas aos colaboradores da PGBR:
 
 1. utilizar-se do cargo ou função para intimidar colega;
-*. solicitar, sugerir ou receber vantagens pessoais ou para terceiros, de qualquer espécie, utilizando o nome da PGBR, cargo ou a função;
-*. fazer uso de informação privilegiada, obtida no exercício profissional, em benefício próprio ou de terceiros, na realização de negócios de qualquer natureza;
-*. receber, indevidamente, em razão de suas atribuições, presentes, comissão ou vantagem de qualquer espécie, inclusive convites de caráter pessoal para viagens, hospedagens e outras atrações;
-*. prejudicar, deliberadamente, a reputação de outros colaboradores, cidadãos, entidades e empresas;
-*. usar de artifícios para dificultar o exercício de direitos por qualquer pessoa física ou jurídica;
-*. permitir que empatias ou interesses de ordem pessoal interfiram no trato com os colegas ou com o público em geral;
-*. exercer quaisquer atividades profissionais conflitantes ou incompatíveis com o exercício do cargo ou função;9. compactuar com irregularidades, não tomando as providências pertinentes quando da identificação do fato;
-*. praticar assédio sexual ou moral;
-*. deixar ou permitir, com dolo ou culpa grave, de proceder ao pagamento a quem de direito;
-*. realizar ou permitir, com dolo ou culpa grave, que alguém receba pagamento ao qual não faça jus.
+2. solicitar, sugerir ou receber vantagens pessoais ou para terceiros, de qualquer espécie, utilizando o nome da PGBR, cargo ou a função;
+3. fazer uso de informação privilegiada, obtida no exercício profissional, em benefício próprio ou de terceiros, na realização de negócios de qualquer natureza;
+4. receber, indevidamente, em razão de suas atribuições, presentes, comissão ou vantagem de qualquer espécie, inclusive convites de caráter pessoal para viagens, hospedagens e outras atrações;
+5. prejudicar, deliberadamente, a reputação de outros colaboradores, cidadãos, entidades e empresas;
+6. usar de artifícios para dificultar o exercício de direitos por qualquer pessoa física ou jurídica;
+7. permitir que empatias ou interesses de ordem pessoal interfiram no trato com os colegas ou com o público em geral;
+8. exercer quaisquer atividades profissionais conflitantes ou incompatíveis com o exercício do cargo ou função;9. compactuar com irregularidades, não tomando as providências pertinentes quando da identificação do fato;
+9. praticar assédio sexual ou moral;
+10. deixar ou permitir, com dolo ou culpa grave, de proceder ao pagamento a quem de direito;
+11. realizar ou permitir, com dolo ou culpa grave, que alguém receba pagamento ao qual não faça jus.
 
     § 1º Não são considerados presentes, para os fins do item 4 deste artigo, os brindes que não tenham valor comercial, ou que sejam distribuídos por entidades de qualquer natureza a título de cortesia, propaganda, divulgação habitual ou por ocasião de eventos especiais, ou datas comemorativas, que não ultrapassem o valor unitário de R$ 300,00 (trezentos reais). Os presentes acima desse valor que, por qualquer motivo, não possam ser devolvidos, serão preferencialmente incorporados ao patrimônio da PGBR.
+
     § 2º A vedação de que trata o item 4, aplica-se igualmente aos terceiros de relação pessoal ou de família (cônjuge, ascendente ou descendente) do colaborador.
 
 ## CAPÍTULO IV
