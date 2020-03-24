@@ -62,11 +62,11 @@ Neste grupo em específico, a discussão de outros temas não ligados a programa
 - Pornografia (incluindo figurinhas/emojis/GIFs/links) [RXXX]
 - Ofensas à família. [RFAM]
 
-Ao entrar no grupo Las Vegas, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo *NÃO é para você*.
+Ao entrar no grupo Las Vegas, você entende que as brincadeiras não tem limites e que podem haver conteúdos ofensivos, de quaisquer natureza (com exceção dos citados acima). Você deve entrar por sua conta e risco. Lembre-se que se for não estiver disposto à falar sobre esses assuntos ou se acha que pode se irritar facilmente, esse grupo **NÃO é para você**.
 
 ## Dúvidas
 
-Nos casos de dúvidas em relação a estas regras, você pode e *DEVE* chamar um dos admins. Na dúvida, evite o ban e *NÃO FAÇA NADA ANTES DE FALAR COM UM DOS ADMINS*.
+Nos casos de dúvidas em relação a estas regras, você pode e **DEVE** chamar um dos admins. Na dúvida, evite o ban e **NÃO FAÇA NADA ANTES DE FALAR COM UM DOS ADMINS**.
 
 ***Início do legado: 25/11/2016***
 
