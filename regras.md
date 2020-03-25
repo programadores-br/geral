@@ -1,6 +1,6 @@
 # ProgramadoresBR
 
-*Vigência: 01/04/2020*
+*Vigência: 01/04/2020*  
 *Validade: Intederminado*
 
 Esse guia traz regras e orientações de conduta para uma convivência saudável entre todos os integrantes e parceiros da ProgramadoresBR (PGBR).
