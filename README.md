@@ -28,7 +28,7 @@ Nossos links oficiais para grupos e redes estão abaixo referenciados:
 
 - [Site](https://programadoresbr.dev)
 - [WhatsApp](https://chat.whatsapp.com/DF9CkPF133O5IdlfOFQCI7)
-- [Fórum - DISCORD](https://discord.gg/nVCRG53)
+- [Fórum - DISCORD](https://forum.programadoresbr.dev)
 - [Página no Facebook](https://www.facebook.com/programad0resbr)
 - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
 - [Canal YouTube](http://youtube.com/c/ProgramadoresBR)
