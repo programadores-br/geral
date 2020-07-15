@@ -1,6 +1,6 @@
 # TERMOS GERAIS E CONDIÇÕES DE USO
 
-Versão 1.2 (julho de 2020)
+Versão 1.3 (julho de 2020)
 
 Alterações nesta versão:
  - Alteração do nosso site
