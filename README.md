@@ -24,11 +24,10 @@ Todos os colaboradores e parceiros da PGBR, não importa seu nível hierárquico
 
 ## Links
 
-Nossos links oficiais para grupos e redes estão abaixo referenciados:
+Nossos links oficiais para grupos e redes estão disponíveis abaixo. Para os grupos no WhatsApp, os links devem ser solicitados aos admins, por meio do Discord ou grupo no Facebook.
 
 - [Site](https://programadoresbr.dev)
-- [WhatsApp](https://chat.whatsapp.com/DF9CkPF133O5IdlfOFQCI7)
-- [Fórum - DISCORD](https://forum.programadoresbr.dev)
+- [Fórum - Discord](https://forum.programadoresbr.dev)
 - [Página no Facebook](https://www.facebook.com/programad0resbr)
 - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
 - [Canal YouTube](http://youtube.com/c/ProgramadoresBR)
