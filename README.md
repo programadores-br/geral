@@ -2,15 +2,15 @@
 
 Bem-vindo ao nosso repositório de regras e dúvidas gerais da Programadores BR (PGBR)! Aqui, você encontrará as nossas regras e termos, que são aplicadas em todos os espaços geridos pela PGBR,  além de poder nos sugerir melhorias e nos ajudar a manter o código dos nossos sistemas!
 
-Todas os documentos em vigor estão na branch master. Quaisquer outras, são destinadas à discussão de implementação e ainda não são consideradas. Fique atento a isso!
+Todos os documentos em vigor estão na branch master. Quaisquer outras, são destinadas à discussão de implementação e ainda não são consideradas válidas. Fique atento a isso!
 
 Siga o menu abaixo para saber como se localizar:
 
 ## Regras gerais
 
-### Site
+### Site e redes sociais
 
-Para o site, temos os Termos de Uso (que geralmente ninguém lê) e a Política de Privacidade (que as pessoas leem ainda menos que os Termos de Uso). Eles são aplicáveis na utilização do Site e são para todos os usuários da Plataforma.
+Para o site, temos os Termos de Uso (que geralmente ninguém lê) e a Política de Privacidade (que as pessoas leem ainda menos que os Termos de Uso). Eles são aplicáveis na utilização do Site e nas redes sociais e são aplicáveis para todos os usuários da Plataforma.
 
 - [Termos de Uso](https://github.com/programadores-br/geral/blob/master/termos-de-uso.md)
 - [Política de Privacidade](https://github.com/programadores-br/geral/blob/master/politica-de-privacidade.md)
