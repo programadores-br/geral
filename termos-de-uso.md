@@ -61,6 +61,22 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
     5.4 Você reconhece que, quaisquer melhorias propostas em Nossos serviços por Você, Websites e funcionalidades de sistemas, a PGBR reserva-se, a Nosso exclusivo critério, poderá ou não ser analisada e implementada. Você também concorda que, em caso de desenvolvimento, teste, implementação e efetiva divulgação, todas as melhorias que venham a ser propostas por Você não constituirão nenhum tipo de vínculo empregatício, financeiro, moral, mercadológico e nenhum outro tipo de obrigação legal, constituindo cessão total, irrevogável e irretratável de Suas ideias, propostas e códigos-fonte à Plataforma. Ainda neste sentido, a PGBR não será obrigada nem constrangida a fazer ou deixar de fazer quaisquer melhorias ou adições que Você possa propor a Nós, seja a que título for.  
 
     5.5 Você fica obrigado a nos informar sobre quaisquer falhas de código, brechas de segurança, anomalias de funcionamento, comportamentos inesperados ou quaisquer outros tipos de bugs imediatamente, através de formulário prórpio no Website da Plataforma ou pelo e-mail bugs@programadoresbr.dev. Os termos para implementação das correções enviadas seguem o que está disposto na cláusula 5.4.  
+    
+      5.5.1 Ao reportar falhas de software, de caráter de segurança, Você deve nos explicar:
+        
+      - metodologia da pesquisa
+      - passo a passo para obtenção do sucesso no ataque
+      - ambiente do teste
+      - softwares utilizados
+      - possíveis logins envolvidos
+      - descrição detalhada sobre a gravidade da falha
+      
+      5.5.2 Quaisquer falhas que sejam reportadas antes à comunidade de segurança da informação, comunidade científica, usuários da PGBR, imprensa ou quaisquer outros meios, nos autoriza a, inequivocamente, responsabilizar, civil, penal, finaceira e criminalmente o pesquisador responsável pela descoberta.  
+      
+      5.5.3 Para os casos de falhas de segurança em nossos sites e sistemas, haverá um prazo máximo de resposta de até vinte dias. A correção dessas falhas ocorrerão em, no máximo, sessenta dias após a resposta inicial à Sua comunicação de falha.  
+      
+      5.5.4 Em caso de não cumprimento dos prazos descritos na cláusula 5.5.3, seguindo as boas práticas internacionais para o assunto, Você poderá divulgar livremente a falha, em decorrência de Nossa inação e/ou omissão, sendo as penalidades previstas na cláusula 5.5.2 tornadas nulas e sem efeito, mantendo-se, entretanto, todas as outras penalidades e cláusula em vigor.  
+
 
 6. Links para outros Websites  
     6.1. O conteúdo de quaisquer websites que Você acessar a partir dos Nossos Websites está totalmente fora do Nosso controle, sendo que o acesso e a permanência em tais sites se darão por Sua própria conta e risco. A inclusão destes links nos Websites não implica no Nosso endosso ou anuência a quaisquer produtos, serviços, conteúdo, informação ou materiais oferecidos por, ou acessível a Você nos websites de terceiros. Nós não representamos ou garantimos quaisquer websites de terceiros que Você venha a acessar através dos Websites. Nós não podemos aceitar qualquer responsabilidade ou assumir qualquer obrigação com respeito a qualquer material contido em qualquer outro website. Quaisquer opiniões ou recomendações expressas nos referidos outros websites são unicamente aquelas dos provedores independentes e não são, tampouco representam, as opiniões ou recomendações da PGBR.  
@@ -132,4 +148,4 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     14.3. Estes Termos de Uso (junto com quaisquer termos e condições específicas para serviços específicos, incluindo Proposta de Adesão e Contrato de Prestação de Serviços) contém o acordo integral entre Nós em relação aos Serviços e Seu uso dos Websites e substituem todos os acordos anteriores entre Nós em relação a eles.  
 
-    14.4. Se em algum momento, qualquer disposição (ou parte de qualquer disposição) destes Termos de Uso é, ou tornar-se ilegal, inválida ou inexequível em qualquer aspecto, sob a lei de qualquer jurisdição, isto não afetará ou prejudicará a legalidade, validade ou execução nessa ou em qualquer outra jurisdição de qualquer outra disposição (ou qualquer outra parte da mesma disposição) destes Termos de Uso. O mesmo entendimento será aplicado para os casos em que uma determinada cláusula ou parte destes Termos Gerais sejam declaradas inválidas, ilegais ou inexequíveis; somente aquela cláusulaou seção serão considerados sem validade, devendo o documento restante que não foi avaliado pelo órgão competente ser cumprido de forma integral e sem ressalvas.  
+    14.4. Se em algum momento, qualquer disposição (ou parte de qualquer disposição) destes Termos de Uso é, ou tornar-se ilegal, inválida ou inexequível em qualquer aspecto, sob a lei de qualquer jurisdição, isto não afetará ou prejudicará a legalidade, validade ou execução nessa ou em qualquer outra jurisdição de qualquer outra disposição (ou qualquer outra parte da mesma disposição) destes Termos de Uso. O mesmo entendimento será aplicado para os casos em que uma determinada cláusula ou parte destes Termos Gerais sejam declaradas inválidas, ilegais ou inexequíveis; somente aquela cláusula ou seção serão considerados sem validade, devendo o documento restante que não foi avaliado pelo órgão competente ser cumprido de forma integral e sem ressalvas.  
