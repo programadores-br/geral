@@ -47,8 +47,8 @@ Considera-se como assunto não pertinente nos grupos técnicos, aqueles que não
 
 Caso esta regra seja descumprida, seguiremos a seguinte régua disciplinar:
 
-- 1° ocorrência: 1 hora para a mensagem ser removida
-- 2° ocorrência: 15 minutos para a mensagem ser removida
+- 1° ocorrência: 20 minutos para a mensagem ser removida
+- 2° ocorrência: 10 minutos para a mensagem ser removida
 - 3° ocorrência: ban permanente.
 
 Em caso de descumprimento da ordem de remoção nas 1ª e 2ª ocorrência, o ban será de 1 a 7 dias. Todos os envolvidos poderão ser penalizados.
