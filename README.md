@@ -2,15 +2,15 @@
 
 Bem-vindo ao nosso repositório de regras e dúvidas gerais da Programadores BR (PGBR)! Aqui, você encontrará as nossas regras e termos, que são aplicadas em todos os espaços geridos pela PGBR,  além de poder nos sugerir melhorias e nos ajudar a manter o código dos nossos sistemas!
 
-Todas os documentos em vigor estão na branch master. Quaisquer outras, são destinadas à discussão de implementação e ainda não são consideradas. Fique atento a isso!
+Todos os documentos em vigor estão na branch master. Quaisquer outras, são destinadas à discussão de implementação e ainda não são consideradas válidas. Fique atento a isso!
 
 Siga o menu abaixo para saber como se localizar:
 
 ## Regras gerais
 
-### Site
+### Site e redes sociais
 
-Para o site, temos os Termos de Uso (que geralmente ninguém lê) e a Política de Privacidade (que as pessoas leem ainda menos que os Termos de Uso). Eles são aplicáveis na utilização do Site e são para todos os usuários da Plataforma.
+Para o site, temos os Termos de Uso (que geralmente ninguém lê) e a Política de Privacidade (que as pessoas leem ainda menos que os Termos de Uso). Eles são aplicáveis na utilização do Site e nas redes sociais e são aplicáveis para todos os usuários da Plataforma.
 
 - [Termos de Uso](https://github.com/programadores-br/geral/blob/master/termos-de-uso.md)
 - [Política de Privacidade](https://github.com/programadores-br/geral/blob/master/politica-de-privacidade.md)
@@ -24,11 +24,10 @@ Todos os colaboradores e parceiros da PGBR, não importa seu nível hierárquico
 
 ## Links
 
-Nossos links oficiais para grupos e redes estão abaixo referenciados:
+Nossos links oficiais para grupos e redes estão disponíveis abaixo. Para os grupos no WhatsApp, os links devem ser solicitados aos admins, por meio do Discord ou grupo no Facebook.
 
 - [Site](https://programadoresbr.dev)
-- [WhatsApp](https://chat.whatsapp.com/DF9CkPF133O5IdlfOFQCI7)
-- [Fórum - DISCORD](https://forum.programadoresbr.dev)
+- [Fórum - Discord](https://forum.programadoresbr.dev)
 - [Página no Facebook](https://www.facebook.com/programad0resbr)
 - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
 - [Canal YouTube](http://youtube.com/c/ProgramadoresBR)

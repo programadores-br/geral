@@ -1,12 +1,14 @@
 # TERMOS GERAIS E CONDIÇÕES DE USO
 
-Versão 1.1 (novembro de 2018)
+Versão 1.3 (julho de 2020)
 
 Alterações nesta versão:
- - Inclusão dos termos para correção de bugs
- - Como tratamos os casos em que seja proposta melhorias, adições ou descontinuidade de funcionalidades
+ - Alteração do nosso site
+ - Novos termos para negociações
+ - Especificação da necessidade de ler termos específicos de ações de parceiros
+ - Correção no layout
  
-Este instrumento contém os termos gerais e condições de uso dos sítios eletrônicos “www.programadoresbr.com.br”, seus subdomínios e sistemas Web abertos (em conjunto, os “Websites”, ou, individual e indistintamente, o “Website”), bem como dos serviços oferecidos por meio de tais Websites (os “Serviços”), no âmbito da Plataforma Programadores BR (a “Plataforma”). Esses Termos de Uso incluem a nossa Política de Privacidade, que contém as regras e condições do uso que fazemos dos seus dados pessoais.
+Este instrumento contém os termos gerais e condições de uso dos sítios eletrônicos “www.programadoresbr.dev”, seus subdomínios e sistemas Web abertos (em conjunto, os “Websites”, ou, individual e indistintamente, o “Website”), bem como dos serviços oferecidos por meio de tais Websites (os “Serviços”), no âmbito da Plataforma Programadores BR (a “Plataforma”). Esses Termos de Uso incluem a nossa Política de Privacidade, que contém as regras e condições do uso que fazemos dos seus dados pessoais.
 
 1. O Serviço dos Websites
     1.1. Os Websites são operados pela  Programadores BR Plataforma para Desenvolvedores (“Programadores BR”, “Plataforma”, "PGBR", “Nós”, “Nos” ou “Nosso”, “Conosco”). “Você”, “Seu”, “Sua”, “Usuário” ou “Cliente” significam a parte fazendo uso dos Websites e/ou dos Serviços. Através do Website, a PGBR oferece a Você acesso a dados, informações referentes à Plataforma.
@@ -20,7 +22,7 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     2.4. A PGBR poderá atualizar ou alterar estes Termos Gerais a qualquer tempo. Após a publicação da alteração destes Termos de Uso nos Websites, o Seu uso continuado dos Serviços ou dos Websites constitui Sua expressa concordância para com os Termos de Uso, conforme alterados.  
 
-        2.4.1 A PGBR se compromete a comunicar, por meio de notificação nos Websites, pop-up, e-mail, push no aplicativo ou por qualquer outro meio que se faça disponível e se entenda efetivo, a alteração, revogação ou inclusão de alguma das cláusulas destes Termos nos (trinta) dias corridos anteriores à entrada em vigor da nova versão dos Termos de Uso e/ou Política de Privacidade. No entanto, é sua obrigação visitar regularmente esta página para confirmar que não houveram mudanças nos Termos.  
+      2.4.1 A PGBR se compromete a comunicar, por meio de notificação nos Websites, pop-up, e-mail, push no aplicativo ou por qualquer outro meio que se faça disponível e se entenda efetivo, a alteração, revogação ou inclusão de alguma das cláusulas destes Termos nos (trinta) dias corridos anteriores à entrada em vigor da nova versão dos Termos de Uso e/ou Política de Privacidade. No entanto, é sua obrigação visitar regularmente esta página para confirmar que não houveram mudanças nos Termos.  
 
 3. Acesso ao Website e aos Serviços  
     3.1. A fim de acessar o Website e utilizar os Serviços, Você deve manter e operar o software e hardware necessários para tal. Você é o único e exclusivo responsável por adquirir, instalar e manter todo e qualquer software e hardware necessários para acessar o Website e utilizar os Serviços. Nós não nos responsabilizamos por quaisquer dificuldades técnicas que Você enfrente decorrentes do uso destes softwares e hardwares.  
@@ -30,13 +32,13 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     4.2. Ao se cadastrar, Você concorda em fornecer informações verdadeiras, corretas, atualizadas e completas (os “Dados de Cadastro”) conforme solicitados no formato de cadastro disponibilizado a Você por meio dos Websites, sob pena de responsabilização nos termos da legislação aplicável vigente. Ainda, Você se compromete a manter Seus Dados de Cadastro sempre atualizados, informando-nos por qualquer meio disponível sobre estas mudanças.  
 
-        4.2.1 Os seguintes dados no formulário de cadastro são considerados, sem os quais o cadastramento não será completado:  
+     4.2.1 Os seguintes dados no formulário de cadastro são considerados, sem os quais o cadastramento não será completado:  
 
-            (i) Nome completo  
-            (ii) E-mail  
-            (iii) Senha  
+      (i) Nome completo  
+      (ii) E-mail  
+      (iii) Senha  
 
-        4.2.2 Quaisquer dados pessoais não descritos na cláusula 4.2.1, são considerados de preenchimento opcional, para completamento do perfil, não impedindo a utilização dos Serviços e/ou Websites disponibilizados pela Plataforma no caso de não preenchimento dos mesmos.  
+     4.2.2 Quaisquer dados pessoais não descritos na cláusula 4.2.1, são considerados de preenchimento opcional, para completamento do perfil, não impedindo a utilização dos Serviços e/ou Websites disponibilizados pela Plataforma no caso de não preenchimento dos mesmos.  
 
     4.3. Eventulamente, Nós podemos solicitar comprovação dos seus Dados de Cadastro por quaisquer motivos que se façam legalmente necessários no forneciemnto dos Serviços para Você (em acordo com Nossa Política de Privacidade), ou, alternativamente, para identificar e/ou entrar em contato com Você. Se Seus Dados de Cadastro não forem verdadeiros e corretos, ou estiverem desatualizados e incompletos, a PGBR poderá encerrar o Serviço ou encerrar a Sua conta e todos os usos correntes ou futuros dos Serviços (ou qualquer parte deles), mediante notificação prévia para Você.  
 
@@ -44,8 +46,8 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     4.5. Além disso, Você obriga-se a:  
 
-        (i) notificar imediatamente a PGBR de qualquer uso não autorizado de seus Dados de Acesso ou qualquer outra violação de segurança, incluindo, mas não se limitando, o extravio, perda ou roubo de seus Dados de Acesso; e  
-        (ii) efetuar logout em sua conta ao final de cada sessão de utilização.  
+      (i) notificar imediatamente a PGBR de qualquer uso não autorizado de seus Dados de Acesso ou qualquer outra violação de segurança, incluindo, mas não se limitando, o extravio, perda ou roubo de seus Dados de Acesso; e  
+      (ii) efetuar logout em sua conta ao final de cada sessão de utilização.  
 
     4.6. Nós não seremos responsáveis por qualquer perda ou dano decorrente da Sua falha em cumprir ao que estabelece esta seção.  
 
@@ -58,7 +60,23 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     5.4 Você reconhece que, quaisquer melhorias propostas em Nossos serviços por Você, Websites e funcionalidades de sistemas, a PGBR reserva-se, a Nosso exclusivo critério, poderá ou não ser analisada e implementada. Você também concorda que, em caso de desenvolvimento, teste, implementação e efetiva divulgação, todas as melhorias que venham a ser propostas por Você não constituirão nenhum tipo de vínculo empregatício, financeiro, moral, mercadológico e nenhum outro tipo de obrigação legal, constituindo cessão total, irrevogável e irretratável de Suas ideias, propostas e códigos-fonte à Plataforma. Ainda neste sentido, a PGBR não será obrigada nem constrangida a fazer ou deixar de fazer quaisquer melhorias ou adições que Você possa propor a Nós, seja a que título for.  
 
-    5.5 Você fica obrigado a nos informar sobre quaisquer falhas de código, brechas de segurança, anomalias de funcionamento, comportamentos inesperados ou quaisquer outros tipos de bugs imediatamente, através de formulário prórpio no Website da Plataforma ou pelo e-mail bugs@programadoresbr.com.br. Os termos para implementação das correções enviadas seguem o que está disposto na cláusula 5.4.  
+    5.5 Você fica obrigado a nos informar sobre quaisquer falhas de código, brechas de segurança, anomalias de funcionamento, comportamentos inesperados ou quaisquer outros tipos de bugs imediatamente, através de formulário prórpio no Website da Plataforma ou pelo e-mail bugs@programadoresbr.dev. Os termos para implementação das correções enviadas seguem o que está disposto na cláusula 5.4.  
+    
+      5.5.1 Ao reportar falhas de software, de caráter de segurança, Você deve nos explicar:
+        
+      - metodologia da pesquisa
+      - passo a passo para obtenção do sucesso no ataque
+      - ambiente do teste
+      - softwares utilizados
+      - possíveis logins envolvidos
+      - descrição detalhada sobre a gravidade da falha
+      
+      5.5.2 Quaisquer falhas que sejam reportadas antes à comunidade de segurança da informação, comunidade científica, usuários da PGBR, imprensa ou quaisquer outros meios, nos autoriza a, inequivocamente, responsabilizar, civil, penal, finaceira e criminalmente o pesquisador responsável pela descoberta.  
+      
+      5.5.3 Para os casos de falhas de segurança em nossos sites e sistemas, haverá um prazo máximo de resposta de até vinte dias. A correção dessas falhas ocorrerão em, no máximo, sessenta dias após a resposta inicial à Sua comunicação de falha.  
+      
+      5.5.4 Em caso de não cumprimento dos prazos descritos na cláusula 5.5.3, seguindo as boas práticas internacionais para o assunto, Você poderá divulgar livremente a falha, em decorrência de Nossa inação e/ou omissão, sendo as penalidades previstas na cláusula 5.5.2 tornadas nulas e sem efeito, mantendo-se, entretanto, todas as outras penalidades e cláusula em vigor.  
+
 
 6. Links para outros Websites  
     6.1. O conteúdo de quaisquer websites que Você acessar a partir dos Nossos Websites está totalmente fora do Nosso controle, sendo que o acesso e a permanência em tais sites se darão por Sua própria conta e risco. A inclusão destes links nos Websites não implica no Nosso endosso ou anuência a quaisquer produtos, serviços, conteúdo, informação ou materiais oferecidos por, ou acessível a Você nos websites de terceiros. Nós não representamos ou garantimos quaisquer websites de terceiros que Você venha a acessar através dos Websites. Nós não podemos aceitar qualquer responsabilidade ou assumir qualquer obrigação com respeito a qualquer material contido em qualquer outro website. Quaisquer opiniões ou recomendações expressas nos referidos outros websites são unicamente aquelas dos provedores independentes e não são, tampouco representam, as opiniões ou recomendações da PGBR.  
@@ -89,20 +107,24 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
     9.3. Nós não seremos responsáveis perante Você por qualquer atraso ou não execução dos Serviços, ou falha em acessar os Websites ou qualquer parte do Conteúdo do mesmo, decorrente de qualquer causa além do nosso razoável controle ou de prestadores de Nossos serviços.  
 
     9.4. Você é responsável pelo conteúdo das Suas mensagens ou quaisquer outros dados, informações ou materiais distribuídos através dos Websites. Você é responsável por todas as obrigações perante terceiros decorrentes da Sua utilização dos Websites, incluindo contratuais, tributários e passivos regulatórios. Você concorda em Nos indenizar por quaisquer custos, despesas ou passivos que Nós incorrermos, e quaisquer reivindicações ou ações judiciais que venham a ser propostas contra a PGBR em consequência do Seu uso dos Serviços, dos Websites ou qualquer Conteúdo do mesmo.  
+    
+    9.5 Por seu caráter aberto e de livre conversação, você entende, aceita e concorda que quaisquer negociações, de quaisquer naturezas, sob quaisquer tipos ou títulos de compensações, de quaisquer produtos e serviços (com exceção daqueles considerados ilegais pela legislação vigente) NÃO são de responsabilidade da PGBR, seus administradores, moderadores, desevolvedores, parceiros, colaboradores e outros. Salvo os casos em que realizarmos ações de compra e venda de produtos e serviços, os quais estarão oportunamente divulgados em nossa página na internet, nenhuma outra está sob nossa jurisdição de atuação, devendo VOCÊ ficar responsável por todos os cuidados pertinententes aos detalhes comerciais, financeiros, econômicos, cíveis, criminais e jurídicos.
+    
+    9.6 Ações realizadas por parceiros e divulgadas pela PGBR NÃO estão sob nossa jurisdição de atuação. Sempre adotaremos as melhores práticas para a seleção de parceirias, afim de evitar engodo dos nossos usuários. No entanto, é impossível garantir a fidedignidade de todos, sem que seja imposta uma alta carga burocrática sobre os mesmos, acarretando em possíveis perdas. Quaisquer ações realizadas por esses parceiros são resposabilidade total e integral DESTES, sendo necessário verificar se há termos de uso, políticas de privacidade, regulamentos e regras adicionais aplicavéis para cada caso.
 
 10. Política Aceitável de Uso  
     10.1. Você concorda em não:  
 
-        (i) usar os Websites, qualquer Conteúdo deles bem como os Serviços para fins comerciais;  
-        (ii) usar os Websites, qualquer Conteúdo deles bem como dos Serviços para qualquer fim ilícito;  
-        (iii) tornar disponíveis conscientemente, através dos Websites ou fazer o upload de arquivos, dados ou quaisquer outros materiais não pertencentes ou licenciados a Você;  
-        (iv) disponibilizar através dos Websites ou fazer upload de arquivos ou outros dados ou materiais que Você sabe conter vírus, bug, dados corrompidos ou outros itens prejudiciais;  
-        (v) interferir com o funcionamento normal dos Websites;  
-        (vi) interferir no uso e acesso de outras partes aos Websites, seu Conteúdo e Serviços;  
-        (vii) publicar, postar, distribuir ou disseminar materiais ou informações difamatórias, transgressoras, obscenas, indecentes ou ilegais através dos nossos Serviços ou dos Websites;  
-        (viii) fazer Engenharia Reversa, crack, divulgação ou de qualquer outra maneira, conhecida ou não, quebrar o código-fonte da Plataforma;  
-        (ix) realizar qualquer tipo de ataque, que seja ou não de amplo conhecimento público, contra os servidores, voluntários, funcionários e quaisquer outros colaboradores da Plataforma; e  
-        (x) usar o nome, a marca, o domínio, os símbolos ou representar a PGBR sem que você esteja legalmente e expressamente por escrito, autorizado a tal.  
+       (i) usar os Websites, qualquer Conteúdo deles bem como os Serviços para fins comerciais;  
+       (ii) usar os Websites, qualquer Conteúdo deles bem como dos Serviços para qualquer fim ilícito;  
+       (iii) tornar disponíveis conscientemente, através dos Websites ou fazer o upload de arquivos, dados ou quaisquer outros materiais não pertencentes ou licenciados a Você;  
+       (iv) disponibilizar através dos Websites ou fazer upload de arquivos ou outros dados ou materiais que Você sabe conter vírus, bug, dados corrompidos ou outros itens prejudiciais;  
+       (v) interferir com o funcionamento normal dos Websites;  
+       (vi) interferir no uso e acesso de outras partes aos Websites, seu Conteúdo e Serviços;  
+       (vii) publicar, postar, distribuir ou disseminar materiais ou informações difamatórias, transgressoras, obscenas, indecentes ou ilegais através dos nossos Serviços ou dos Websites;  
+       (viii) fazer Engenharia Reversa, crack, divulgação ou de qualquer outra maneira, conhecida ou não, quebrar o código-fonte da Plataforma;  
+       (ix) realizar qualquer tipo de ataque, que seja ou não de amplo conhecimento público, contra os servidores, voluntários, funcionários e quaisquer outros colaboradores da Plataforma; e  
+       (x) usar o nome, a marca, o domínio, os símbolos ou representar a PGBR sem que você esteja legalmente e expressamente por escrito, autorizado a tal.  
 
     10.2. A PGBR reserva-se o direito de suspender ou bloquear imediatamente Seu acesso aos Websites ou a qualquer Serviço, e remover quaisquer informações ou dados que considerarmos uma violação de qualquer uma das cláusulas destes Termos Gerais, sem aviso prévio e/ou disponibilizar dita informação quando solicitada por órgãos públicos ou por ordem judicial.  
 
@@ -117,7 +139,7 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
     12.1. Estes Termos de Uso e todas as relações dele decorrentes são submetidas à leis da República Federativa do Brasil, sendo eleito o foro da Comarca da Capital do estado de São Paulo, para dirimir qualquer controvérsia decorrente deste instrumento.  
 
 13. Notificações  
-    13.1. Notificações podem ser dadas por Nós ou por Você por e-mail. Nosso endereço para este fim é: contato@programadoresbr.com.br.  
+    13.1. Notificações podem ser dadas por Nós ou por Você por e-mail. Nosso endereço para este fim é: contato@programadoresbr.dev.  
 
 14. Disposições Gerais  
     14.1. Você não poderá ceder, sublicenciar, subcontratar, transferir ou dispor de quaisquer direitos e obrigações Seus no âmbito destes Termos de Uso sem o nosso consentimento prévio. A PGBR poderá ceder o Contrato ou os direitos dele decorrentes a qualquer uma das sociedades do grupo econômico do qual faz parte ou que possa vir a fazer parte no futuro, ficando obrigada a comunicar ao Cliente sua intenção, sendo reservado o direito do Cliente de rescindir o presente contrato de prestação de serviços sem quaisquer ônus adicionais.  
@@ -126,4 +148,4 @@ Este instrumento contém os termos gerais e condições de uso dos sítios eletr
 
     14.3. Estes Termos de Uso (junto com quaisquer termos e condições específicas para serviços específicos, incluindo Proposta de Adesão e Contrato de Prestação de Serviços) contém o acordo integral entre Nós em relação aos Serviços e Seu uso dos Websites e substituem todos os acordos anteriores entre Nós em relação a eles.  
 
-    14.4. Se em algum momento, qualquer disposição (ou parte de qualquer disposição) destes Termos de Uso é, ou tornar-se ilegal, inválida ou inexequível em qualquer aspecto, sob a lei de qualquer jurisdição, isto não afetará ou prejudicará a legalidade, validade ou execução nessa ou em qualquer outra jurisdição de qualquer outra disposição (ou qualquer outra parte da mesma disposição) destes Termos de Uso. O mesmo entendimento será aplicado para os casos em que uma determinada cláusula ou parte destes Termos Gerais sejam declaradas inválidas, ilegais ou inexequíveis; somente aquela cláusulaou seção serão considerados sem validade, devendo o documento restante que não foi avaliado pelo órgão competente ser cumprido de forma integral e sem ressalvas.  
+    14.4. Se em algum momento, qualquer disposição (ou parte de qualquer disposição) destes Termos de Uso é, ou tornar-se ilegal, inválida ou inexequível em qualquer aspecto, sob a lei de qualquer jurisdição, isto não afetará ou prejudicará a legalidade, validade ou execução nessa ou em qualquer outra jurisdição de qualquer outra disposição (ou qualquer outra parte da mesma disposição) destes Termos de Uso. O mesmo entendimento será aplicado para os casos em que uma determinada cláusula ou parte destes Termos Gerais sejam declaradas inválidas, ilegais ou inexequíveis; somente aquela cláusula ou seção serão considerados sem validade, devendo o documento restante que não foi avaliado pelo órgão competente ser cumprido de forma integral e sem ressalvas.  
