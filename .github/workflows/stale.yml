@@ -11,12 +11,12 @@ jobs:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/stale@v4
+    - uses: actions/stale@v7
       with:
         repo-token: ${{ github.token }}
-        stale-issue-message: "This issue is stale because it has been open for 60 days with no activity."
-        close-issue-message: "This issue was closed because it has been inactive for 60 days since being marked as stale."
-        stale-issue-label: 'no-issue-activity'
-        stale-pr-label: 'no-pr-activity'
+        stale-issue-message: "Esta issue foi marcada porque está aberta e está há mais de 60 dias sem nenhuma atividade. Em breve será fechada."
+        close-issue-message: "Esta issue foi fechada porque estava marcada e continuou sem atividade por 60 dias, desde que foi marcada."
+        stale-issue-label: 'Stale'
+        stale-pr-label: 'Stale'
         days-before-issue-stale: 60
         days-before-issue-close: 60
