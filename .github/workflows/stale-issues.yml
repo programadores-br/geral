@@ -17,4 +17,4 @@ jobs:
         stale-issue-message: "Esta issue foi marcada porque está aberta e está há mais de 60 dias sem nenhuma atividade. Em breve será fechada."
         close-issue-message: "Esta issue foi fechada porque estava marcada e continuou sem atividade por 60 dias, desde que foi marcada."
         days-before-issue-stale: 60
-        days-before-issue-close: 60
+        days-before-issue-close: 5
