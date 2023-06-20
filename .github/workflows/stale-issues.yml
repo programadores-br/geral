@@ -6,16 +6,19 @@ on:
   - cron: "0 0 * * *"
 
 jobs:
+
   close-issues:
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
+      
     steps:
+    
     - uses: actions/stale@v7
       with:
         repo-token: ${{ github.token }}
-        stale-issue-message: "Esta issue foi marcada porque está aberta e está há mais de 60 dias sem nenhuma atividade. Em breve será fechada."
-        close-issue-message: "Esta issue foi fechada porque estava marcada e continuou sem atividade por 60 dias, desde que foi marcada."
+        stale-issue-message: "Esta vaga foi marcada como `stale` porque está aberta à mais de 60 dias sem nenhuma atividade. Em 5 dias será encerrada."
+        close-issue-message: "Esta vaga foi encerrada porque estava marcada como `stale` e continuou sem atividade por 5 dias."
         days-before-issue-stale: 60
         days-before-issue-close: 5
