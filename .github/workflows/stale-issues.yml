@@ -1,24 +1,22 @@
-name: Mark stale issues and pull requests
-
+name: "Close stale issues"
 on:
   workflow_dispatch:
   schedule:
   - cron: "0 0 * * *"
 
 jobs:
-
-  close-issues:
+  stale:
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
-      
     steps:
-    
-    - uses: actions/stale@v8
+    - uses: actions/stale@v9
       with:
-        repo-token: ${{ github.token }}
-        stale-issue-message: "Esta vaga foi marcada como `stale` porque está aberta à mais de 60 dias sem nenhuma atividade. Em 5 dias será encerrada."
-        close-issue-message: "Esta vaga foi encerrada porque estava marcada como `stale` e continuou sem atividade por 5 dias."
-        days-before-issue-stale: 60
-        days-before-issue-close: 5
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Esta vaga encontra-se há um bom tempo sem novas interações. Se ainda estiver aberta, faça um comentário, caso contrario, a fecharemos automaticamente em 5 dias.'
+        days-before-stale: 60
+        days-before-close: 5
+        ascending: true
+        exempt-issue-labels: 'Permanente'
+        operations-per-run: 300
