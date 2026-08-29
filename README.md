@@ -31,3 +31,5 @@ Nossos links oficiais para grupos e redes estão disponíveis abaixo. Para os gr
 - [Página no Facebook](https://www.facebook.com/programad0resbr)
 - [Grupo do Facebook](https://www.facebook.com/groups/pr0gramad0resbr/)
 - [Canal YouTube](http://youtube.com/c/ProgramadoresBR)
+
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/programadores-br/geral). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
